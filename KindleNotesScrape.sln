@@ -5,6 +5,12 @@ VisualStudioVersion = 15.0.28307.1145
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KindleNotesScrape", "KindleNotesScrape\KindleNotesScrape.csproj", "{A2A051E8-AF2D-47F0-B676-6257C5EF58EF}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BrowserFetcher", "BrowserFetcher\BrowserFetcher.csproj", "{BC43FB51-0B4F-4A53-8671-1492FF2DC3DD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KindleScrapeConsole", "KindleScrapeConsole\KindleScrapeConsole.csproj", "{F8DCC778-9FDB-4CBC-828C-3B772E43C003}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MyNotes", "..\MyNotes\MyNotes\MyNotes.csproj", "{5A205071-FDEF-44DC-87A5-8CFD8715DCA5}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +21,18 @@ Global
 		{A2A051E8-AF2D-47F0-B676-6257C5EF58EF}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A2A051E8-AF2D-47F0-B676-6257C5EF58EF}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A2A051E8-AF2D-47F0-B676-6257C5EF58EF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BC43FB51-0B4F-4A53-8671-1492FF2DC3DD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BC43FB51-0B4F-4A53-8671-1492FF2DC3DD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BC43FB51-0B4F-4A53-8671-1492FF2DC3DD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BC43FB51-0B4F-4A53-8671-1492FF2DC3DD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F8DCC778-9FDB-4CBC-828C-3B772E43C003}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F8DCC778-9FDB-4CBC-828C-3B772E43C003}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F8DCC778-9FDB-4CBC-828C-3B772E43C003}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F8DCC778-9FDB-4CBC-828C-3B772E43C003}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5A205071-FDEF-44DC-87A5-8CFD8715DCA5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5A205071-FDEF-44DC-87A5-8CFD8715DCA5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5A205071-FDEF-44DC-87A5-8CFD8715DCA5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5A205071-FDEF-44DC-87A5-8CFD8715DCA5}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
